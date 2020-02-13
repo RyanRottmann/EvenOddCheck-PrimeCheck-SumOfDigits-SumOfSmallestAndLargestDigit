@@ -1,0 +1,1 @@
+# EvenOddCheck-PrimeCheck-SumOfDigits-SumOfSmallestAndLargestDigit
